@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Razan AlQahtani</h1>
-<h3 align="center">I'm senior CS student at SU</h3>
-<h3 align="center">- 🔭 I’m currently taking my coop at smart methods company</h3>
+<h3 align="center">I'm fresh gradute B.S. degree in computer science  </h3>
+<h3 align="center">- 🔭 I’m was taking my coop at smart methods as Robotics Engineer</h3>
 
 
 <h3 align="left">Connect with me:</h3>
